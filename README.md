@@ -2,14 +2,21 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen (immer die neueste Version)
+## Herunterladen – aktuelle Version 0.2.0
 
 | System | Download |
 |---|---|
-| **macOS** (Apple Silicon und Intel) | [Balance-CRM-macOS.dmg](https://github.com/michahenn/balance-crm-releases/releases/latest/download/Balance-CRM-macOS.dmg) |
-| **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/releases/latest/download/Balance-CRM-Windows-Setup.exe) |
+| **macOS** (Apple Silicon und Intel) | [Balance-CRM-macOS.dmg](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg) |
+| **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
-Alle Versionen mit Änderungen: [Releases](https://github.com/michahenn/balance-crm-releases/releases)
+Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.2.0
+
+- Synchronisation zwischen zwei oder mehr Rechnern im lokalen Netz – verschlüsselt, ohne Cloud
+- Ausblick: kommende Termine, Wiedervorlagen, Geburtstage und LRP-Bestellungen
+- Spalten in den Listen ein-/ausblenden und sortieren
+- Bereiche im Kontakt einklappbar
 
 ## Installieren
 
