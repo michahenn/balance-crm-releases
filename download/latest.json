@@ -1,10 +1,18 @@
 {
- "version": "0.2.1",
+ "version": "0.2.2",
  "date": "2026-11-05",
  "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
  "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
  "page": "https://github.com/michahenn/balance-crm-releases/",
  "changelog": [
+  {
+   "version": "0.2.2",
+   "date": "2026-11-05",
+   "items": [
+    "Updateprüfung: Die App meldet neue Versionen selbst – mit Changelog und Download-Knopf",
+    "Einstellungen → Updates: von Hand prüfen oder automatische Prüfung abschalten"
+   ]
+  },
   {
    "version": "0.2.1",
    "date": "2026-11-05",
