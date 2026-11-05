@@ -1,0 +1,28 @@
+{
+ "version": "0.2.1",
+ "date": "2026-11-05",
+ "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
+ "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
+ "page": "https://github.com/michahenn/balance-crm-releases/",
+ "changelog": [
+  {
+   "version": "0.2.1",
+   "date": "2026-11-05",
+   "items": [
+    "Pipeline in drei Ansichten: Interessenten (Customer Journey), Kunden & Berater (Business-Journey), Alle Status",
+    "Business-Journey nach dem dōTERRA Business Building Guide – vom LRP über die Einführung zum Start bis Elite, Silver und Gold",
+    "Ziehen setzt den Schritt mit Datum, alles mit Rückgängig"
+   ]
+  },
+  {
+   "version": "0.2.0",
+   "date": "2026-11-03",
+   "items": [
+    "Synchronisation zwischen zwei oder mehr Rechnern im lokalen Netz – verschlüsselt, ohne Cloud",
+    "Ausblick: kommende Termine, Wiedervorlagen, Geburtstage und LRP-Bestellungen",
+    "Spalten in den Listen ein-/ausblenden und sortieren",
+    "Bereiche im Kontakt einklappbar"
+   ]
+  }
+ ]
+}
