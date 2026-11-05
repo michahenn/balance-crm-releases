@@ -1,10 +1,22 @@
 {
- "version": "0.2.2",
+ "version": "0.3.0",
  "date": "2026-11-05",
  "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
  "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
  "page": "https://github.com/michahenn/balance-crm-releases/",
  "changelog": [
+  {
+   "version": "0.3.0",
+   "date": "2026-11-05",
+   "items": [
+    "Neue Seite „Team“: Veranstaltungen aus dem Teamkalender mit Teilnehmen-Knopf und die wichtigsten Links deiner Teamleitung",
+    "Team-Termine auch auf „Heute“ und im „Ausblick“; Teamkalender mit einem Klick abonnieren",
+    "Meine Angaben: eigene doTERRA-ID, Name und persönliche Links (Einschreiben, Shop …) zum Kopieren",
+    "Textbausteine: Vorlage im Kontakt wählen, anpassen und per WhatsApp, SMS, E-Mail oder Telegram senden",
+    "Ölproben, Art der Intro und Einschreibeset als Auswahl – die Vorschläge nennen die gesampelten Öle",
+    "Customer Journey ergänzt um „Eingeladen“ und „Willkommen & Kundengruppe“"
+   ]
+  },
   {
    "version": "0.2.2",
    "date": "2026-11-05",
