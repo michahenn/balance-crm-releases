@@ -1,93 +1,93 @@
 {
- "v": 1,
- "name": "Finde die Balance",
- "updated": "2026-11-05T22:00:00Z",
- "calendar": "https://calendar.google.com/calendar/ical/462c22cdda24be9f0f0e5351357b3db2259ba95a91b5f8bdf38c856bec605fb5%40group.calendar.google.com/public/basic.ics",
- "note": "Willkommen im Team-Kanal von Finde die Balance. Hier findest du unsere Team-Termine und die wichtigsten Links.",
- "resources": [
-  {
-   "cat": "dōTERRA",
-   "title": "mydoterra – Backoffice",
-   "url": "https://www.mydoterra.com/",
-   "desc": "Bestellungen, LRP, Team und Berichte"
-  },
-  {
-   "cat": "dōTERRA",
-   "title": "Help Hub",
-   "url": "https://www.doterra.com/ME/de_ME/help-hub",
-   "desc": "Antworten rund um Konto, Bestellung und Versand"
-  },
-  {
-   "cat": "dōTERRA",
-   "title": "Produktverfügbarkeit",
-   "url": "https://www.doterra.com/ME/de_ME/product-availability",
-   "desc": ""
-  },
-  {
-   "cat": "dōTERRA",
-   "title": "Marketingmaterialien, Guides & Produktinformationen",
-   "url": "https://www.doterra.com/ME/de_ME/germany-information",
-   "desc": ""
-  },
-  {
-   "cat": "Richtlinien & Leitfäden",
-   "title": "Richtlinienhandbuch",
-   "url": "https://media.doterra.com/de/de/brochures/policy-manual.pdf",
-   "desc": ""
-  },
-  {
-   "cat": "Richtlinien & Leitfäden",
-   "title": "LIVE Guide",
-   "url": "https://media.doterra.com/eu/de/brochures/live-guide.pdf",
-   "desc": ""
-  },
-  {
-   "cat": "Richtlinien & Leitfäden",
-   "title": "BUILD – Leitfaden zum Geschäftsaufbau",
-   "url": "https://media.doterra.com/eu/de/brochures/build-guide.pdf",
-   "desc": ""
-  },
-  {
-   "cat": "Richtlinien & Leitfäden",
-   "title": "Vergütungsplan erläutert",
-   "url": "https://t.me/+Nze-9Loce3U1Y2Iy",
-   "desc": "Erklärung im Telegram-Kanal"
-  },
-  {
-   "cat": "Finde die Balance",
-   "title": "Finde die Balance Akademie",
-   "url": "https://www.findediebalance.de/mitgliedschaften/",
-   "desc": ""
-  },
-  {
-   "cat": "Finde die Balance",
-   "title": "Telegram-Beratergruppe „fdB Teamwork = Dreamwork“",
-   "url": "https://t.me/+nPGYgA-AK3A4ZjMy",
-   "desc": "Nur für Beraterinnen und Berater"
-  },
-  {
-   "cat": "Finde die Balance",
-   "title": "Deutsche Kundengruppe auf Telegram",
-   "url": "https://t.me/+AhBaUvlWFW0zNGJi",
-   "desc": "Für Kundinnen und Kunden – gerne weitergeben"
-  },
-  {
-   "cat": "Finde die Balance",
-   "title": "Teamkalender im Browser ansehen",
-   "url": "https://calendar.google.com/calendar/embed?src=462c22cdda24be9f0f0e5351357b3db2259ba95a91b5f8bdf38c856bec605fb5%40group.calendar.google.com&ctz=Europe%2FBerlin",
-   "desc": ""
-  },
-  {
-   "cat": "Werkzeuge",
-   "title": "BOARDS – Business-Tastatur (App Store)",
-   "url": "https://apps.apple.com/de/app/boards-business-tastatur/id1507677341",
-   "desc": "Textbausteine direkt in der Handy-Tastatur"
-  },
-  {
-   "cat": "Werkzeuge",
-   "title": "Teamboard Finde die Balance",
-   "url": "https://boards.com/b/bXwCc.Dc134p8s",
-   "desc": "In der BOARDS-App hinzufügen"
-  }
- ]
+  "v": 1,
+  "name": "Finde die Balance",
+  "updated": "2026-11-05T23:27:50.745608+00:00",
+  "calendar": "https://calendar.google.com/calendar/ical/462c22cdda24be9f0f0e5351357b3db2259ba95a91b5f8bdf38c856bec605fb5%40group.calendar.google.com/public/basic.ics",
+  "note": "Willkommen im Team-Kanal von Finde die Balance. Hier findest du unsere Team-Termine und die wichtigsten Links.",
+  "resources": [
+    {
+      "cat": "dōTERRA",
+      "title": "mydoterra – Backoffice",
+      "url": "https://www.mydoterra.com/",
+      "desc": "Bestellungen, LRP, Team und Berichte"
+    },
+    {
+      "cat": "dōTERRA",
+      "title": "Help Hub",
+      "url": "https://www.doterra.com/ME/de_ME/help-hub",
+      "desc": "Antworten rund um Konto, Bestellung und Versand"
+    },
+    {
+      "cat": "dōTERRA",
+      "title": "Produktverfügbarkeit",
+      "url": "https://www.doterra.com/ME/de_ME/product-availability",
+      "desc": ""
+    },
+    {
+      "cat": "dōTERRA",
+      "title": "Marketingmaterialien, Guides & Produktinformationen",
+      "url": "https://www.doterra.com/ME/de_ME/germany-information",
+      "desc": ""
+    },
+    {
+      "cat": "Richtlinien & Leitfäden",
+      "title": "Richtlinienhandbuch",
+      "url": "https://media.doterra.com/de/de/brochures/policy-manual.pdf",
+      "desc": ""
+    },
+    {
+      "cat": "Richtlinien & Leitfäden",
+      "title": "LIVE Guide",
+      "url": "https://media.doterra.com/eu/de/brochures/live-guide.pdf",
+      "desc": ""
+    },
+    {
+      "cat": "Richtlinien & Leitfäden",
+      "title": "BUILD – Leitfaden zum Geschäftsaufbau",
+      "url": "https://media.doterra.com/eu/de/brochures/build-guide.pdf",
+      "desc": ""
+    },
+    {
+      "cat": "Richtlinien & Leitfäden",
+      "title": "Vergütungsplan erläutert",
+      "url": "https://t.me/+Nze-9Loce3U1Y2Iy",
+      "desc": "Erklärung im Telegram-Kanal"
+    },
+    {
+      "cat": "Finde die Balance",
+      "title": "Finde die Balance Akademie",
+      "url": "https://www.findediebalance.de/mitgliedschaften/",
+      "desc": ""
+    },
+    {
+      "cat": "Finde die Balance",
+      "title": "Telegram-Beratergruppe „fdB Teamwork = Dreamwork“",
+      "url": "https://t.me/+nPGYgA-AK3A4ZjMy",
+      "desc": "Nur für Beraterinnen und Berater"
+    },
+    {
+      "cat": "Finde die Balance",
+      "title": "Deutsche Kundengruppe auf Telegram",
+      "url": "https://t.me/+AhBaUvlWFW0zNGJi",
+      "desc": "Für Kundinnen und Kunden – gerne weitergeben"
+    },
+    {
+      "cat": "Finde die Balance",
+      "title": "Teamkalender im Browser ansehen",
+      "url": "https://calendar.google.com/calendar/embed?src=462c22cdda24be9f0f0e5351357b3db2259ba95a91b5f8bdf38c856bec605fb5%40group.calendar.google.com&ctz=Europe%2FBerlin",
+      "desc": ""
+    },
+    {
+      "cat": "Werkzeuge",
+      "title": "BOARDS – Business-Tastatur (App Store)",
+      "url": "https://apps.apple.com/de/app/boards-business-tastatur/id1507677341",
+      "desc": "Textbausteine direkt in der Handy-Tastatur"
+    },
+    {
+      "cat": "Werkzeuge",
+      "title": "Teamboard Finde die Balance",
+      "url": "https://boards.com/b/bXwCc.Dc134p8s",
+      "desc": "In der BOARDS-App hinzufügen"
+    }
+  ]
 }
