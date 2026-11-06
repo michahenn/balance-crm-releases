@@ -1,14 +1,14 @@
 {
   "v": 1,
   "name": "Finde die Balance",
-  "updated": "2026-11-05T23:27:50.745608+00:00",
+  "updated": "2026-11-06T09:23:50.565291+00:00",
   "calendar": "https://calendar.google.com/calendar/ical/462c22cdda24be9f0f0e5351357b3db2259ba95a91b5f8bdf38c856bec605fb5%40group.calendar.google.com/public/basic.ics",
   "note": "Willkommen im Team-Kanal von Finde die Balance. Hier findest du unsere Team-Termine und die wichtigsten Links.",
   "resources": [
     {
       "cat": "dōTERRA",
-      "title": "mydoterra – Backoffice",
-      "url": "https://www.mydoterra.com/",
+      "title": "dōTERRA – Backoffice",
+      "url": "https://office.doterra.com/",
       "desc": "Bestellungen, LRP, Team und Berichte"
     },
     {
