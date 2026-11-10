@@ -54,3 +54,7 @@ Die Links zeigen immer auf die neueste Version.
 1. Ein Passwort festlegen und gut merken – ohne Passwort lassen sich die Daten nicht öffnen.
 2. Bestehende Liste importieren (Excel, CSV, ODS) oder den ersten Kontakt anlegen.
 3. Alles Weitere steht im Handbuch in der App (⌘7 bzw. Strg+7).
+
+---
+
+[Datenschutzerklärung](datenschutz.md) · Kontakt: apps@360creations.de · © Findediebalance by 360 Creations LLP
