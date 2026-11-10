@@ -1,10 +1,21 @@
 {
- "version": "0.3.1",
- "date": "2026-11-06",
+ "version": "0.3.2",
+ "date": "2026-11-10",
  "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
  "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
  "page": "https://github.com/michahenn/balance-crm-releases/",
  "changelog": [
+  {
+   "version": "0.3.2",
+   "date": "2026-11-10",
+   "items": [
+    "Kontaktlisten aufgeräumt: eine Zeile pro Kontakt, weniger Spalten, Filter und Sortierung in einem Knopf",
+    "Kontakt öffnet als ruhige Übersicht – Anrufen, WhatsApp und E-Mail oben, Verlauf, Journey, Bestellungen und Einwilligungen als Reiter",
+    "Customer Journey kompakt: Datum, Notiz und Öl-Auswahl erst beim Abhaken oder Anklicken",
+    "Bearbeiten als eigenes Formular (⌘E / Strg+E), leere Abschnitte bleiben eingeklappt",
+    "Hinweis: Eigene Spalten-Auswahl in den Listen wird einmalig auf den neuen Standard zurückgesetzt"
+   ]
+  },
   {
    "version": "0.3.1",
    "date": "2026-11-06",

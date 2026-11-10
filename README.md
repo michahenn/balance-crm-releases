@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.1
+## Herunterladen – aktuelle Version 0.3.2
 
 | System | Download |
 |---|---|
@@ -10,6 +10,12 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.2
+
+- Kontaktlisten aufgeräumt: eine Zeile pro Kontakt, weniger Spalten, Filter und Sortierung in einem Knopf
+- Kontakt öffnet als ruhige Übersicht – Kontaktwege oben, Verlauf, Journey, Bestellungen und Einwilligungen als Reiter
+- Customer Journey kompakt, Bearbeiten als eigenes Formular (⌘E / Strg+E)
 
 ## Neu in 0.3.1
 
