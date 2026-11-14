@@ -1,68 +1,79 @@
 {
- "version": "0.3.2",
- "date": "2026-11-10",
- "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
- "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
- "page": "https://github.com/michahenn/balance-crm-releases/",
- "changelog": [
-  {
-   "version": "0.3.2",
-   "date": "2026-11-10",
-   "items": [
-    "Kontaktlisten aufgeräumt: eine Zeile pro Kontakt, weniger Spalten, Filter und Sortierung in einem Knopf",
-    "Kontakt öffnet als ruhige Übersicht – Anrufen, WhatsApp und E-Mail oben, Verlauf, Journey, Bestellungen und Einwilligungen als Reiter",
-    "Customer Journey kompakt: Datum, Notiz und Öl-Auswahl erst beim Abhaken oder Anklicken",
-    "Bearbeiten als eigenes Formular (⌘E / Strg+E), leere Abschnitte bleiben eingeklappt",
-    "Hinweis: Eigene Spalten-Auswahl in den Listen wird einmalig auf den neuen Standard zurückgesetzt"
-   ]
-  },
-  {
-   "version": "0.3.1",
-   "date": "2026-11-06",
-   "items": [
-    "Fenster lässt sich wieder an der Titel- und Werkzeugleiste verschieben; Doppelklick vergrößert",
-    "Team-Inhalte bearbeiten: Links der Ressourcen vollständig sichtbar und bearbeitbar",
-    "Kleinere Korrekturen auf der Team-Seite"
-   ]
-  },
-  {
-   "version": "0.3.0",
-   "date": "2026-11-05",
-   "items": [
-    "Neue Seite „Team“: Veranstaltungen aus dem Teamkalender mit Teilnehmen-Knopf und die wichtigsten Links deiner Teamleitung",
-    "Team-Termine auch auf „Heute“ und im „Ausblick“; Teamkalender mit einem Klick abonnieren",
-    "Meine Angaben: eigene doTERRA-ID, Name und persönliche Links (Einschreiben, Shop …) zum Kopieren",
-    "Textbausteine: Vorlage im Kontakt wählen, anpassen und per WhatsApp, SMS, E-Mail oder Telegram senden",
-    "Ölproben, Art der Intro und Einschreibeset als Auswahl – die Vorschläge nennen die gesampelten Öle",
-    "Customer Journey ergänzt um „Eingeladen“ und „Willkommen & Kundengruppe“"
-   ]
-  },
-  {
-   "version": "0.2.2",
-   "date": "2026-11-05",
-   "items": [
-    "Updateprüfung: Die App meldet neue Versionen selbst – mit Changelog und Download-Knopf",
-    "Einstellungen → Updates: von Hand prüfen oder automatische Prüfung abschalten"
-   ]
-  },
-  {
-   "version": "0.2.1",
-   "date": "2026-11-05",
-   "items": [
-    "Pipeline in drei Ansichten: Interessenten (Customer Journey), Kunden & Berater (Business-Journey), Alle Status",
-    "Business-Journey nach dem dōTERRA Business Building Guide – vom LRP über die Einführung zum Start bis Elite, Silver und Gold",
-    "Ziehen setzt den Schritt mit Datum, alles mit Rückgängig"
-   ]
-  },
-  {
-   "version": "0.2.0",
-   "date": "2026-11-03",
-   "items": [
-    "Synchronisation zwischen zwei oder mehr Rechnern im lokalen Netz – verschlüsselt, ohne Cloud",
-    "Ausblick: kommende Termine, Wiedervorlagen, Geburtstage und LRP-Bestellungen",
-    "Spalten in den Listen ein-/ausblenden und sortieren",
-    "Bereiche im Kontakt einklappbar"
-   ]
-  }
- ]
+  "version": "0.3.3",
+  "date": "2026-11-14",
+  "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
+  "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
+  "page": "https://github.com/michahenn/balance-crm-releases/",
+  "changelog": [
+    {
+      "version": "0.3.3",
+      "date": "2026-11-14",
+      "items": [
+        "Neues Design im Finde-die-Balance-Look: App-Icon mit zwei Tropfen auf Lavendel, ruhige Farben, hell und dunkel",
+        "Aufgeräumte Seitenleiste ohne Symbole, zum Einklappen über das Symbol oben (oder das App-Logo)",
+        "Klarere Listen: Schnellwahl Alle / Kunden / Interessenten, größere Schrift, Status als farbiger Punkt",
+        "Startseite und alle Seiten mit flachen Blöcken statt Rahmen, Ausblick-Filter im neuen Stil",
+        "iPad: Geräte finden sich im Heimnetz wieder automatisch, Listen rutschen beim Scrollen nicht mehr seitlich weg"
+      ]
+    },
+    {
+      "version": "0.3.2",
+      "date": "2026-11-10",
+      "items": [
+        "Kontaktlisten aufgeräumt: eine Zeile pro Kontakt, weniger Spalten, Filter und Sortierung in einem Knopf",
+        "Kontakt öffnet als ruhige Übersicht – Anrufen, WhatsApp und E-Mail oben, Verlauf, Journey, Bestellungen und Einwilligungen als Reiter",
+        "Customer Journey kompakt: Datum, Notiz und Öl-Auswahl erst beim Abhaken oder Anklicken",
+        "Bearbeiten als eigenes Formular (⌘E / Strg+E), leere Abschnitte bleiben eingeklappt",
+        "Hinweis: Eigene Spalten-Auswahl in den Listen wird einmalig auf den neuen Standard zurückgesetzt"
+      ]
+    },
+    {
+      "version": "0.3.1",
+      "date": "2026-11-06",
+      "items": [
+        "Fenster lässt sich wieder an der Titel- und Werkzeugleiste verschieben; Doppelklick vergrößert",
+        "Team-Inhalte bearbeiten: Links der Ressourcen vollständig sichtbar und bearbeitbar",
+        "Kleinere Korrekturen auf der Team-Seite"
+      ]
+    },
+    {
+      "version": "0.3.0",
+      "date": "2026-11-05",
+      "items": [
+        "Neue Seite „Team“: Veranstaltungen aus dem Teamkalender mit Teilnehmen-Knopf und die wichtigsten Links deiner Teamleitung",
+        "Team-Termine auch auf „Heute“ und im „Ausblick“; Teamkalender mit einem Klick abonnieren",
+        "Meine Angaben: eigene doTERRA-ID, Name und persönliche Links (Einschreiben, Shop …) zum Kopieren",
+        "Textbausteine: Vorlage im Kontakt wählen, anpassen und per WhatsApp, SMS, E-Mail oder Telegram senden",
+        "Ölproben, Art der Intro und Einschreibeset als Auswahl – die Vorschläge nennen die gesampelten Öle",
+        "Customer Journey ergänzt um „Eingeladen“ und „Willkommen & Kundengruppe“"
+      ]
+    },
+    {
+      "version": "0.2.2",
+      "date": "2026-11-05",
+      "items": [
+        "Updateprüfung: Die App meldet neue Versionen selbst – mit Changelog und Download-Knopf",
+        "Einstellungen → Updates: von Hand prüfen oder automatische Prüfung abschalten"
+      ]
+    },
+    {
+      "version": "0.2.1",
+      "date": "2026-11-05",
+      "items": [
+        "Pipeline in drei Ansichten: Interessenten (Customer Journey), Kunden & Berater (Business-Journey), Alle Status",
+        "Business-Journey nach dem dōTERRA Business Building Guide – vom LRP über die Einführung zum Start bis Elite, Silver und Gold",
+        "Ziehen setzt den Schritt mit Datum, alles mit Rückgängig"
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "date": "2026-11-03",
+      "items": [
+        "Synchronisation zwischen zwei oder mehr Rechnern im lokalen Netz – verschlüsselt, ohne Cloud",
+        "Ausblick: kommende Termine, Wiedervorlagen, Geburtstage und LRP-Bestellungen",
+        "Spalten in den Listen ein-/ausblenden und sortieren",
+        "Bereiche im Kontakt einklappbar"
+      ]
+    }
+  ]
 }
