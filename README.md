@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.2
+## Herunterladen – aktuelle Version 0.3.3
 
 | System | Download |
 |---|---|
@@ -10,6 +10,13 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.3
+
+- Neues Design im Finde-die-Balance-Look: App-Icon mit zwei Tropfen auf Lavendel, ruhige Farben, hell und dunkel
+- Aufgeräumte, einklappbare Seitenleiste; klarere Listen mit Schnellwahl Alle / Kunden / Interessenten
+- Flache Blöcke statt Rahmen auf allen Seiten, größere Schrift
+- iPad (Testphase): Geräte finden sich im Heimnetz automatisch, Listen rutschen nicht mehr seitlich weg
 
 ## Neu in 0.3.2
 
