@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.3
+## Herunterladen – aktuelle Version 0.3.4
 
 | System | Download |
 |---|---|
@@ -10,6 +10,12 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.4
+
+- Team-Kanal vorerst abgeschaltet, kommt später geschützt zurück
+- Kontaktseite aufgeräumt, Seitenleiste lässt sich eingeklappt wieder öffnen
+- iPad: nutzt den ganzen Bildschirm
 
 ## Neu in 0.3.3
 

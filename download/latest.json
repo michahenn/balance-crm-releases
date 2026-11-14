@@ -1,10 +1,20 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.4",
   "date": "2026-11-14",
   "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
   "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
   "page": "https://github.com/michahenn/balance-crm-releases/",
   "changelog": [
+    {
+      "version": "0.3.4",
+      "date": "2026-11-14",
+      "items": [
+        "Team-Kanal (Teamkalender und Ressourcen) vorerst abgeschaltet – kommt später geschützt zurück",
+        "Kontaktseite: Name nur noch einmal groß, oben der Weg zurück zur Liste",
+        "Eingeklappte Seitenleiste mit sichtbarem Knopf zum Ausklappen",
+        "iPad: nutzt den ganzen Bildschirm, nichts wird mehr abgeschnitten"
+      ]
+    },
     {
       "version": "0.3.3",
       "date": "2026-11-14",
