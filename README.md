@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.4
+## Herunterladen – aktuelle Version 0.3.5
 
 | System | Download |
 |---|---|
@@ -10,6 +10,11 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.5
+
+- Seitenleiste neu sortiert, neue Liste „Berater“ (ab Rang Elite)
+- Alle Ränge bis Presidential Diamond in Business-Journey und Pipeline
 
 ## Neu in 0.3.4
 

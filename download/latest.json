@@ -1,10 +1,19 @@
 {
-  "version": "0.3.4",
-  "date": "2026-11-14",
+  "version": "0.3.5",
+  "date": "2026-11-15",
   "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
   "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
   "page": "https://github.com/michahenn/balance-crm-releases/",
   "changelog": [
+    {
+      "version": "0.3.5",
+      "date": "2026-11-15",
+      "items": [
+        "Seitenleiste neu sortiert: Alle Kontakte, Interessenten, Kunden, Berater, Pipeline – darunter Schnell sortieren, Aufgaben, Import",
+        "Neue Liste „Berater“: alle Kontakte mit Rang Elite oder höher",
+        "Alle Ränge bis Presidential Diamond in Business-Journey und Pipeline"
+      ]
+    },
     {
       "version": "0.3.4",
       "date": "2026-11-14",
