@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.5
+## Herunterladen – aktuelle Version 0.3.6
 
 | System | Download |
 |---|---|
@@ -10,6 +10,11 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.6
+
+- **Massenlöschen:** Kontakte auswählen → „Löschen …“. Die App fragt mit Anzahl nach und legt vorher automatisch ein Backup an.
+- **CSV-Import robuster:** Der Team-Kontaktdownload aus dem Backoffice wird jetzt korrekt in Spalten aufgeteilt.
 
 ## Neu in 0.3.5
 

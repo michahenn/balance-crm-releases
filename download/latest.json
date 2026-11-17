@@ -1,10 +1,18 @@
 {
-  "version": "0.3.5",
-  "date": "2026-11-15",
+  "version": "0.3.6",
+  "date": "2026-11-17",
   "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
   "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
   "page": "https://github.com/michahenn/balance-crm-releases/",
   "changelog": [
+    {
+      "version": "0.3.6",
+      "date": "2026-11-17",
+      "items": [
+        "Massenlöschen: Kontakte auswählen → „Löschen …“ – mit Rückfrage und automatischem Backup vorher",
+        "CSV-Import robuster: Titelzeilen, Trennzeichen und doppelt verpackte Zeilen (Team-Kontaktdownload) werden erkannt"
+      ]
+    },
     {
       "version": "0.3.5",
       "date": "2026-11-15",
