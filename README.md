@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.6
+## Herunterladen – aktuelle Version 0.3.7
 
 | System | Download |
 |---|---|
@@ -10,6 +10,11 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.7
+
+- **Enroller- und Sponsor-Name** als eigene Felder, angezeigt als „Name · ID“. Der Import ordnet sie jetzt richtig zu.
+- Falsch importierte Daten (Enroller-Name in „Kunde seit“) werden beim ersten Start automatisch repariert.
 
 ## Neu in 0.3.6
 
