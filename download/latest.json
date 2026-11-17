@@ -1,10 +1,18 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "date": "2026-11-17",
   "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
   "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
   "page": "https://github.com/michahenn/balance-crm-releases/",
   "changelog": [
+    {
+      "version": "0.3.8",
+      "date": "2026-11-17",
+      "items": [
+        "Enroller und Sponsor sind anklickbar, wenn die Person im CRM ist (Abgleich über die doTERRA-ID)",
+        "Neu im Kontakt: „Selbst eingeschrieben“ mit allen direkt eingeschriebenen Kontakten"
+      ]
+    },
     {
       "version": "0.3.7",
       "date": "2026-11-17",
