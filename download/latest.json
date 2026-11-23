@@ -1,10 +1,18 @@
 {
-  "version": "0.3.10",
+  "version": "0.3.11",
   "date": "2026-11-23",
   "mac": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-macOS.dmg",
   "windows": "https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe",
   "page": "https://github.com/michahenn/balance-crm-releases/",
   "changelog": [
+    {
+      "version": "0.3.11",
+      "date": "2026-11-23",
+      "items": [
+        "Abgleich etwa viermal so schnell",
+        "Menü und Listen bleiben während eines Abgleichs bedienbar"
+      ]
+    },
     {
       "version": "0.3.10",
       "date": "2026-11-23",

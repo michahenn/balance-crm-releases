@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.10
+## Herunterladen – aktuelle Version 0.3.11
 
 | System | Download |
 |---|---|
@@ -10,6 +10,11 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.11
+
+- **Abgleich etwa viermal so schnell.**
+- **Menü und Listen bleiben während eines Abgleichs bedienbar** – auch beim ersten großen Abgleich nach einem Update.
 
 ## Neu in 0.3.10
 
