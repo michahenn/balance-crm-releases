@@ -2,7 +2,7 @@
 
 Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten bleiben auf deinem Rechner.
 
-## Herunterladen – aktuelle Version 0.3.8
+## Herunterladen – aktuelle Version 0.3.9
 
 | System | Download |
 |---|---|
@@ -10,6 +10,14 @@ Lokales, verschlüsseltes Kunden-CRM für dein doTERRA-Business. Alle Daten blei
 | **Windows** 10 / 11 | [Balance-CRM-Windows-Setup.exe](https://github.com/michahenn/balance-crm-releases/raw/main/download/Balance-CRM-Windows-Setup.exe) |
 
 Die Links zeigen immer auf die neueste Version.
+
+## Neu in 0.3.9
+
+- **Anwendungsplan für Neukunden:** im Kontakt unter „Anwendungsplan“ oder über den Menüpunkt „Anwendungspläne“ (Kunde suchen → Plan anlegen). Übernimmt Anliegen und letzte Bestellung, ordnet die Anwendungen nach Tageszeit, auf Wunsch mit bis zu vier Wochen zum Abhaken. Druck als A4-PDF über den Druckdialog.
+- **Vorlagen je Produkt:** Zeitpunkt, Art und Anleitung einmal merken – beim nächsten Plan automatisch eingesetzt.
+- **Prüfung vor dem Druck:** findet Tippfehler, verschriebene Produktnamen und Widersprüche zwischen Zeitpunkt und Text. Läuft nur auf deinem Gerät.
+- **Einstellungen in Reitern:** Allgemein, Mitteilungen, Journey & Listen, Vorlagen, Sicherheit & Backup, Team & Sync.
+- Bitte alle Geräte einer Sync-Gruppe zeitnah aktualisieren, damit Pläne überall ankommen.
 
 ## Neu in 0.3.8
 
